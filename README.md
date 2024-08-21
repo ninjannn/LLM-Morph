@@ -4,4 +4,4 @@ https://arxiv.org/abs/2408.10703
 ## Result
 ![](./Visual/boxplot.png)
 ## Feature Visual
-![](./Visual/Feature Pictures.png)
+![](./Visual/Feature.png)
